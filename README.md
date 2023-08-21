@@ -1,16 +1,17 @@
-# hello_world_app
+# Contador personalizado
 
-A new Flutter project.
+![counter app](https://github.com/esarmiem/CounterApp/assets/114357859/d86d1234-db87-4cc0-8b78-b53a362a80ef)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Empezando
 
-A few resources to get you started if this is your first Flutter project:
+Este proyecto es un punto de partida para una aplicación Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aquí tienes algunos recursos para empezar si este es tu primer proyecto en Flutter:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Laboratorio: Escribe tu primera aplicación Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Recetario: Ejemplos útiles de Flutter](https://docs.flutter.dev/cookbook)
+
+Para obtener ayuda en tus primeros pasos con el desarrollo en Flutter, consulta la
+[documentación](https://docs.flutter.dev/), que ofrece tutoriales,
+ejemplos, orientación sobre desarrollo móvil y una referencia completa de la API.
