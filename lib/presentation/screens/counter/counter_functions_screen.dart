@@ -72,6 +72,17 @@ class _CounterFunctionsScreenState extends State<CounterFunctionsScreen> {
                 });
               },
             ),
+            const SizedBox(
+              height: 10,
+            ),
+            CustomButton(
+              icon: Icons.one_x_mobiledata,
+              onPressed: () {
+                setState(() {
+                  clickCounter += clickCounter * 2;
+                });
+              },
+            ),
           ],
         ));
   }
